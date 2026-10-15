@@ -1,0 +1,8 @@
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.joblib
